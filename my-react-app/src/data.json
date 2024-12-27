@@ -1,0 +1,243 @@
+[
+    {
+      "name": "John Doe",
+      "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/john_doe.jpg",
+      "education": {
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "University of Illinois",
+        "graduation_year": 2022
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Software Developer",
+          "company": "Tech Solutions Inc.",
+          "start_date": "2023-06-01"
+        }
+      }
+    },
+    {
+      "name": "Jane Smith",
+      "address": {
+        "street": "456 Oak Rd",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60601",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/jane_smith.jpg",
+      "education": {
+        "degree": "Master of Business Administration",
+        "university": "Harvard University",
+        "graduation_year": 2021
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Marketing Manager",
+          "company": "Global Brands Corp.",
+          "start_date": "2022-09-15"
+        }
+      }
+    },
+    {
+      "name": "Mark Johnson",
+      "address": {
+        "street": "789 Pine Ave",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/mark_johnson.jpg",
+      "education": {
+        "degree": "Bachelor of Arts in History",
+        "university": "Columbia University",
+        "graduation_year": 2019
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Museum Curator",
+          "company": "National History Museum",
+          "start_date": "2020-02-01"
+        }
+      }
+    },
+    {
+      "name": "Emily Davis",
+      "address": {
+        "street": "101 Maple St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90001",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/emily_davis.jpg",
+      "education": {
+        "degree": "Bachelor of Science in Psychology",
+        "university": "University of California, Los Angeles",
+        "graduation_year": 2023
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Psychologist",
+          "company": "MindCare Clinic",
+          "start_date": "2023-11-01"
+        }
+      }
+    },
+    {
+      "name": "Michael Brown",
+      "address": {
+        "street": "202 Birch Blvd",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94102",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/michael_brown.jpg",
+      "education": {
+        "degree": "Master of Science in Data Science",
+        "university": "Stanford University",
+        "graduation_year": 2020
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Data Scientist",
+          "company": "Innovative Analytics",
+          "start_date": "2021-05-01"
+        }
+      }
+    },
+    {
+      "name": "Sarah Wilson",
+      "address": {
+        "street": "303 Cedar Dr",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33101",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/sarah_wilson.jpg",
+      "education": {
+        "degree": "Bachelor of Science in Biology",
+        "university": "University of Miami",
+        "graduation_year": 2022
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Biotech Researcher",
+          "company": "HealthGen Labs",
+          "start_date": "2023-07-01"
+        }
+      }
+    },
+    {
+      "name": "David Lee",
+      "address": {
+        "street": "404 Elm St",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02108",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/david_lee.jpg",
+      "education": {
+        "degree": "Master of Arts in Literature",
+        "university": "Harvard University",
+        "graduation_year": 2021
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Professor of English",
+          "company": "Boston University",
+          "start_date": "2022-01-15"
+        }
+      }
+    },
+    {
+      "name": "Olivia Martinez",
+      "address": {
+        "street": "505 Pinehill Rd",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "73301",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/olivia_martinez.jpg",
+      "education": {
+        "degree": "Bachelor of Arts in Journalism",
+        "university": "University of Texas at Austin",
+        "graduation_year": 2023
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Journalist",
+          "company": "Austin Tribune",
+          "start_date": "2023-10-01"
+        }
+      }
+    },
+    {
+      "name": "James Taylor",
+      "address": {
+        "street": "606 Redwood St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/james_taylor.jpg",
+      "education": {
+        "degree": "Doctor of Medicine",
+        "university": "University of Washington",
+        "graduation_year": 2018
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Surgeon",
+          "company": "Seattle General Hospital",
+          "start_date": "2019-06-01"
+        }
+      }
+    },
+    {
+      "name": "Isabella Harris",
+      "address": {
+        "street": "707 Spruce Ln",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97201",
+        "country": "USA"
+      },
+      "photo": "https://www.example.com/photos/isabella_harris.jpg",
+      "education": {
+        "degree": "Bachelor of Fine Arts",
+        "university": "University of Oregon",
+        "graduation_year": 2022
+      },
+      "working_status": {
+        "status": "Employed",
+        "current_job": {
+          "title": "Graphic Designer",
+          "company": "Creative Studio",
+          "start_date": "2023-02-01"
+        }
+      }
+    }
+  ]
+  
