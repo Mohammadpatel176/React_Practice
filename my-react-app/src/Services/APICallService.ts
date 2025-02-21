@@ -1,8 +1,10 @@
 import axios, { AxiosResponse } from 'axios';
 
 export interface APICallData {
-  apiUrl: string;
-  data?: any; 
+  apiUrl: string,
+  method:string,
+  data?: any,
+  headers:object 
 }
 
 const APIService = {
